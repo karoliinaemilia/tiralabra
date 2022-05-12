@@ -1,6 +1,6 @@
 # Tiedontiivistys
 
-[Github Actions](https://github.com/karoliinaemilia/tiralabra/actions/workflows/gradle.yml/badge.svg) [![codecov](https://codecov.io/gh/karoliinaemilia/tiralabra/branch/main/graph/badge.svg?token=IXZ5I41HPA)](https://codecov.io/gh/karoliinaemilia/tiralabra)
+![Github Actions](https://github.com/karoliinaemilia/tiralabra/actions/workflows/gradle.yml/badge.svg) [![codecov](https://codecov.io/gh/karoliinaemilia/tiralabra/branch/main/graph/badge.svg?token=IXZ5I41HPA)](https://codecov.io/gh/karoliinaemilia/tiralabra)
 
 ## Dokumentaatio
 
