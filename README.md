@@ -1,5 +1,7 @@
 # Tiedontiivistys
 
+[Github Actions](https://github.com/karoliinaemilia/tiralabra/actions/workflows/gradle.yml/badge.svg) [![codecov](https://codecov.io/gh/karoliinaemilia/tiralabra/branch/main/graph/badge.svg?token=IXZ5I41HPA)](https://codecov.io/gh/karoliinaemilia/tiralabra)
+
 ## Dokumentaatio
 
 [Määrittelydokumentti](https://github.com/karoliinaemilia/tiralabra/blob/main/dokumentaatio/M%C3%A4%C3%A4rittelydokumentti.md)
