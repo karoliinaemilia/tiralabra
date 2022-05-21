@@ -1,7 +1,7 @@
 # Viikkoraportti 2
 
 ### Mitä tein
-En ehtinyt tehdä ohjelmaa. Sain kuitenkin codecov ja checkstylen käyttöön.
+En ehtinyt tehdä ohjelmaa. Sain kuitenkin codecov ja checkstylen käyttöön, checkstylessä vielä joku syntaksivirhe mutta katon sitä sit ens viikolla.
 
 ### Miten ohjelma eteni
 Ei edennyt.
