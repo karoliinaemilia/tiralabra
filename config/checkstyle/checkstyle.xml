@@ -6,7 +6,6 @@
 
     <module name='TreeWalker'>
 
-        <property name='tabWidth' value='4' />
 
         <module name='EmptyBlock' />
         <module name='LeftCurly' />
