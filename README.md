@@ -15,3 +15,5 @@
 ## Viikkoraportit
 
 [Viikko 1](https://github.com/karoliinaemilia/tiralabra/blob/main/dokumentaatio/Viikkoraportit/Viikko1.md)
+
+[Viikko 2](https://github.com/karoliinaemilia/tiralabra/blob/main/dokumentaatio/Viikkoraportit/Viikko2.md)
