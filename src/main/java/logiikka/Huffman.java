@@ -1,6 +1,6 @@
 package logiikka;
 
-class HuffmanNode implements Comparable<HuffmanNode> {
+class HuffmanNode {
     char merkki;
     int frekvenssi;
     HuffmanNode vasen;
