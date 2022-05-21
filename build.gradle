@@ -9,10 +9,11 @@ plugins {
     id 'java'
     id 'application'
     id 'jacoco'
+    id 'checkstyle'
 }
 
 application {
-    mainClass = 'UI.Main'
+    mainClass = 'ui.Main'
 }
 
 run {
@@ -30,13 +31,13 @@ jacocoTestReport {
     }
     afterEvaluate {
         classDirectories.setFrom(files(classDirectories.files.collect {
-            fileTree(dir: it, exclude: ['UI/**'])
+            fileTree(dir: it, exclude: ['ui/**'])
         }))
     }
 }
 jar {
     manifest {
-        attributes 'Main-Class': 'UI.Main'
+        attributes 'Main-Class': 'ui.Main'
     }
 }
 
